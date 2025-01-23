@@ -49,8 +49,8 @@ Eduverse addresses these challenges by providing a centralized platform where us
 
 ### 4. **Automatic Google Drive Integration**
 
-- Add value to others learning journey by sharing valuable resources.
-- Automatic google drive upload functionality, which can generate sharable drive link's. Which are then accesible to entire userbase.
+- Add value to other's learning journey by sharing valuable resources.
+- Automatic Google Drive upload functionality, which can generate sharable drive links. Which are then accessible to the entire user base.
 - Example: Share a resource with a friend by generating a Google Drive link.
 
 ### 5. **Social Sharing**
@@ -70,7 +70,7 @@ Eduverse addresses these challenges by providing a centralized platform where us
 
 ### 7. **AI-Powered Resource Recommendations**
 
-- Eduverse leverages generative AI to recommend the best study resources from the scraped results from web based on:
+- Eduverse leverages generative AI to recommend the best study resources from the scraped results from web-based on:
   - **Course Requirements**: The AI analyzes the course content and suggests resources that align with the learning objectives.
   - **User's Current Knowledge Level**: The AI assesses your proficiency and recommends resources accordingly.
     - **Beginner**: If you're new to a topic, Eduverse will suggest beginner-friendly guides, introductory videos, and foundational articles.
@@ -104,7 +104,7 @@ Eduverse addresses these challenges by providing a centralized platform where us
 
 ### 3. **Progress Tracking**
 
-- Users can mark topics as "Not Started","In Progress" or "Completed," and the app updates the progress bar in real-time.
+- Users can mark topics as "Not Started","In Progress" or "Completed," and the app updates the progress bar in real time.
 
 ### 4. **Social Collaboration**
 
@@ -124,6 +124,12 @@ Eduverse addresses these challenges by providing a centralized platform where us
 - Institutions can attach updated resources, such as lecture notes, research papers, and video tutorials, to each module or topic.
 - This feature ensures that students always have access to the latest and most relevant materials and learning paths.
 
+
+
+https://github.com/user-attachments/assets/773dcf92-ae5c-4f7d-96d6-130b1bc6e075
+
+
+
 ## Technology Stack
 
 ![Electron] ![HTML] ![CSS] ![React.js] ![Express.js] ![MongoDB] ![Mongoose ODM] ![git] ![ChatGPT] ![SpringBoot]
@@ -134,11 +140,11 @@ Eduverse addresses these challenges by providing a centralized platform where us
 
 ### Backend
 
-- Centralized Roadmap and Resource sharing API built using **[Express](https://expressjs.com/)**, which can handle all API requests and serves data efficiently.
+- Centralized Roadmap and Resource sharing API built using **[Express](https://expressjs.com/)**, which can handle all API requests and serve data efficiently.
 
 ### Database
 
-- **[MongoDB Atlas](https://www.mongodb.com/products/platform/atlas-database)** stores user data, roadmaps, and resources in a highly flexible and scalable schema using **[Mongoose ODM](https://mongoosejs.com/)** as the doctument mapping library.
+- **[MongoDB Atlas](https://www.mongodb.com/products/platform/atlas-database)** stores user data, roadmaps, and resources in a highly flexible and scalable schema using **[Mongoose ODM](https://mongoosejs.com/)** as the document mapping library.
 
 <!-- ### Authentication
 
@@ -162,7 +168,7 @@ Eduverse addresses these challenges by providing a centralized platform where us
 
 - Open the Eduverse app.
 - Click on "Create New Roadmap."
-- Enter the skill name, description, and add modules/topics.
+- Enter the skill name, and description, and add modules/topics.
 - Attach resources to specific topics if needed.
 - Save the roadmap.
 
@@ -176,7 +182,7 @@ Eduverse addresses these challenges by providing a centralized platform where us
 
 - Attach a resource to a topic.
 - Click on "Share Resource."
-- The resource will be uploaded to Google Drive, and a sharable link will be generated and stored.
+- The resource will be uploaded to Google Drive, and a shareable link will be generated and stored.
 
 ### 4. **Following a Roadmap**
 
@@ -202,7 +208,7 @@ To run the code on your local machine (for developers or contributors)
 - Node.js and npm installed
 - MongoDB Atlas account
 - Google Cloud Platform account with Google Drive API enabled
-- OpenAI api key
+- OpenAI API key
 
 ### Steps
 
@@ -244,7 +250,7 @@ To run the code on your local machine (for developers or contributors)
 We welcome contributions from the community! If you'd like to contribute to Eduverse, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
+2. Create a new branch for your feature or bug fix.
 3. Commit your changes.
 4. Push your branch to your fork.
 5. Submit a pull request with a detailed description of your changes.
