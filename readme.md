@@ -104,7 +104,7 @@ Eduverse addresses these challenges by providing a centralized platform where us
 
 ### Backend
 
-- **Express + Mongoose**: For handling API requests, database operations, and business logic.
+- **Express + Mongoose**: This is used to handle API requests, database operations, and business logic.
 
 ### Database
 
@@ -116,7 +116,7 @@ Eduverse addresses these challenges by providing a centralized platform where us
 
 ### File Storage
 
-- **Google Drive API**: For uploading resources and generating sharable links.
+- **Google Drive API**: This is for uploading resources and generating shareable links.
 
 ### Generative AI
 
@@ -132,7 +132,7 @@ Eduverse addresses these challenges by providing a centralized platform where us
 
 - Open the Eduverse app.
 - Click on "Create New Roadmap."
-- Enter the skill name, description, and add modules/topics.
+- Enter the skill name, and description, and add modules/topics.
 - Attach resources to specific topics if needed.
 - Save the roadmap.
 
@@ -146,7 +146,7 @@ Eduverse addresses these challenges by providing a centralized platform where us
 
 - Attach a resource to a topic.
 - Click on "Share Resource."
-- The resource will be uploaded to Google Drive, and a sharable link will be generated and stored.
+- The resource will be uploaded to Google Drive, and a shareable link will be generated and stored.
 
 ### 4. **Following a Roadmap**
 
@@ -161,7 +161,9 @@ Eduverse addresses these challenges by providing a centralized platform where us
 
 Watch this video for a working demo.
 
-<video src = "./usage.mp4" controls width="75%"></video>
+
+https://github.com/user-attachments/assets/018c26da-bf25-4e22-a55e-170abc9ab98d
+
 
 ## Installation
 
@@ -214,7 +216,7 @@ To run the code on your local machine (for developers or contributors)
 We welcome contributions from the community! If you'd like to contribute to Eduverse, please follow these steps:
 
 1. Fork the repository.
-2. Create a new branch for your feature or bugfix.
+2. Create a new branch for your feature or bug fix.
 3. Commit your changes.
 4. Push your branch to your fork.
 5. Submit a pull request with a detailed description of your changes.
