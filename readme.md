@@ -124,8 +124,11 @@ Eduverse addresses these challenges by providing a centralized platform where us
 - Institutions can attach updated resources, such as lecture notes, research papers, and video tutorials, to each module or topic.
 - This feature ensures that students always have access to the latest and most relevant materials and learning paths.
 
+### Images
+![Screenshot 2025-01-24 193027](https://github.com/user-attachments/assets/8319c49b-6f0e-41ed-90bb-dc75a322614a)
 
 
+This video demonstrates the whole application
 https://github.com/user-attachments/assets/773dcf92-ae5c-4f7d-96d6-130b1bc6e075
 
 
