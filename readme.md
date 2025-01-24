@@ -125,10 +125,15 @@ Eduverse addresses these challenges by providing a centralized platform where us
 - This feature ensures that students always have access to the latest and most relevant materials and learning paths.
 
 ### Images
-![Screenshot 2025-01-24 193027](https://github.com/user-attachments/assets/8319c49b-6f0e-41ed-90bb-dc75a322614a)
+<img src="light mode.png" height="300" width = "500">
+<img src="Ai roadmap gen.png" height="300" width = "500">
+<img src="modules.png" height="300" width = "500">
+<img src="topics.png" height="300" width = "500">
+<img src="ai recommend.png" height="300" width = "500">
+
+- This video demonstrates the whole application
 
 
-This video demonstrates the whole application
 https://github.com/user-attachments/assets/773dcf92-ae5c-4f7d-96d6-130b1bc6e075
 
 
