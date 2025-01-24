@@ -60,11 +60,15 @@ Eduverse addresses these challenges by providing a centralized platform where us
 - Attach resources (PDFs, videos, links) to specific modules or topics.
 - Example: Attach a YouTube tutorial to the "Flask Framework" topic or a PDF eBook to the "Data Structures" module.
 
+<img src="resource menu.png">
+
 ### 4. **Automatic Google Drive Integration**
 
 - Add value to other's learning journey by sharing valuable resources.
 - Automatic Google Drive upload functionality, which can generate sharable drive links. Which are then accessible to the entire user base.
 - Example: Share a resource with a friend by generating a Google Drive link.
+
+  <img src="resources upload.png">
 
 ### 5. **Social Sharing**
 
