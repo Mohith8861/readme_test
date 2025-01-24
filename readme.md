@@ -126,14 +126,23 @@ Eduverse addresses these challenges by providing a centralized platform where us
 
 ### Images
 - Light / Dark mode toggle
+  
 <img src="light mode.png" >
+
 - AI-Generated Roadmap
+
 <img src="Ai roadmap gen.png" >
+
 - Modules menu
+
 <img src="modules.png">
+
 - Topics menu
+
 <img src="topics.png">
+
 - AI Recommending web scraped resources
+
 <img src="ai recommend.png">
 
 - This video demonstrates the whole application
