@@ -36,13 +36,26 @@ Eduverse addresses these challenges by providing a centralized platform where us
 
 - Users can create detailed roadmaps for any skill, breaking it down into modules and topics.
 - Example: A roadmap for learning Python could include modules like "Basics," "Data Structures," and "Web Development," with topics like "Variables," "Lists," and "Flask Framework."
+- The user can let AI do the roadmap creation if they don't have a fixed path
+  
+<img src="Ai roadmap gen.png" >
 
 ### 2. **Edit and Update Roadmaps**
 
 - Users can easily modify and update the contents of their roadmaps to reflect their learning progress.
 - Example: Add a new topic, reorder modules, or mark a topic as completed.
 
-### 3. **Resource Management**
+<img src="modules.png">
+
+
+### 3. **Progress Tracking**
+
+- Track your learning progress and stay motivated.
+- Example: Mark topics as "In Progress" or "Completed" and visualize your progress with a progress bar.
+
+<img src="topics.png">
+
+### 4. **Resource Management**
 
 - Attach resources (PDFs, videos, links) to specific modules or topics.
 - Example: Attach a YouTube tutorial to the "Flask Framework" topic or a PDF eBook to the "Data Structures" module.
@@ -58,12 +71,7 @@ Eduverse addresses these challenges by providing a centralized platform where us
 - Share your roadmaps and resources with others or follow roadmaps created by other users.
 - Example: Follow a roadmap created by an expert in machine learning or share your own roadmap for learning guitar.
 
-### 6. **Progress Tracking**
-
-- Track your learning progress and stay motivated.
-- Example: Mark topics as "In Progress" or "Completed" and visualize your progress with a progress bar.
-
-### 7. **Internet Resource Recommendations**
+### 6. **Internet Resource Recommendations**
 
 - Eduverse can fetch and recommend relevant links from the internet for the user's convenience by scraping the Bing search engine.
 - Example: If a user creates a roadmap for "Machine Learning," Eduverse can recommend top-rated courses, tutorials, and articles from the web.
@@ -75,6 +83,12 @@ Eduverse addresses these challenges by providing a centralized platform where us
   - **User's Current Knowledge Level**: The AI assesses your proficiency and recommends resources accordingly.
     - **Beginner**: If you're new to a topic, Eduverse will suggest beginner-friendly guides, introductory videos, and foundational articles.
     - **Intermediate/Advanced**: For experienced learners, it will recommend advanced tutorials, research papers, and tips & tricks to deepen your expertise.
+
+<img src="ai recommend.png">
+
+### 8. **Toggle between Light and Dark mode**
+  
+<img src="light mode.png" >
 
 ## How It Benefits Universities and Learners:
 
@@ -95,7 +109,7 @@ Eduverse addresses these challenges by providing a centralized platform where us
 
 - Eduverse uses OpenAI's GPT to suggest modules and topics based on the skill the user wants to learn.
 - Example: If a user wants to learn "Digital Marketing," the AI generates a roadmap with modules like "SEO," "Content Marketing," and "Social Media Advertising and their relevant topics all in the format of the course object."
-
+  
 ### 2. **Resource Upload and Sharing**
 
 - When a user selects the "Share Resource" option, the application will prompt the user to grant permission to access their Google Drive. Upon user consent, the app will authenticate and retrieve the access and refresh tokens, which are securely stored on the user's device for future use.
@@ -104,7 +118,7 @@ Eduverse addresses these challenges by providing a centralized platform where us
 
 ### 3. **Progress Tracking**
 
-- Users can mark topics as "Not Started","In Progress" or "Completed," and the app updates the progress bar in real time.
+- Users can mark topics as "Not Started", "In Progress" or "Completed," and the app updates the progress bar in real-time.
 
 ### 4. **Social Collaboration**
 
@@ -124,29 +138,8 @@ Eduverse addresses these challenges by providing a centralized platform where us
 - Institutions can attach updated resources, such as lecture notes, research papers, and video tutorials, to each module or topic.
 - This feature ensures that students always have access to the latest and most relevant materials and learning paths.
 
-### Images
-- Light / Dark mode toggle
-  
-<img src="light mode.png" >
-
-- AI-Generated Roadmap
-
-<img src="Ai roadmap gen.png" >
-
-- Modules menu
-
-<img src="modules.png">
-
-- Topics menu
-
-<img src="topics.png">
-
-- AI Recommending web scraped resources
-
-<img src="ai recommend.png">
 
 - This video demonstrates the whole application
-
 
 https://github.com/user-attachments/assets/773dcf92-ae5c-4f7d-96d6-130b1bc6e075
 
